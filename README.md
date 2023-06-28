@@ -25,6 +25,7 @@
 #### provider 네이버 카카오는 지원한지 않는다.
 
 * application.yml 에서 provider 를 설정한다.
+* 
   <img width="674" alt="n5" src="https://github.com/jjky123kr/SpringSecurity-OAuth2.0/assets/107549149/1cd2736c-2a0d-4ee0-99d8-1828022802ef">
 
   <img width="527" alt="k6" src="https://github.com/jjky123kr/SpringSecurity-OAuth2.0/assets/107549149/7cbb8b46-f6f6-477e-b869-17baaa64fe37">
